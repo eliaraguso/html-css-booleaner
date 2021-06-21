@@ -30,8 +30,10 @@
     top: -40px;
 }
 
-.tim-img {
-    width: 45%;
+
+}
+
+.tim2imgs {
 }
 
 .descrizione-foto {
@@ -96,6 +98,11 @@ table {
     height: 186.3px;
     font-size: 25px;
     font-weight: bold;
-    top: 15px;
-    
 }
+
+h3 {
+    position: relative;
+    left: 10px;
+    top: 15px;
+}
+
