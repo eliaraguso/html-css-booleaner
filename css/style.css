@@ -31,7 +31,7 @@
 }
 
 .tim-img {
-    width: 49%;
+    width: 45%;
 }
 
 .descrizione-foto {
@@ -48,15 +48,35 @@
 
 .thead-blu {
     background-color: #20A9E5;
+    height: 30px;
+    color: white;
 }
 
 .tr-azzurro {
     background-color: #B1E5F2;
+    height: 100px;
+}
+
+.tr-trasparente {
+    height: 100px;
+}
+
+td { 
+    width: 33.3%; 
+}
+
+th {
+    width: 33.3%;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 #titolo-footer {
     color: grey;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .div-footer1{
