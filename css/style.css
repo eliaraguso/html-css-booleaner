@@ -1,3 +1,8 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
 #titolo-principale {
     position: relative;
     color: white;
@@ -12,4 +17,8 @@
     position: relative;
     bottom: 20px;
     left: 10px;
+}
+
+#primo-titolo {
+    font-size: 50px;
 }
