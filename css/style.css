@@ -37,3 +37,19 @@
 .descrizione-foto {
     font-size: 13px;
 }
+
+.background-yellow {
+    background-color: yellow;
+}
+
+.parte-centrale {
+    font-size: 18px;
+}
+
+.thead-blu {
+    background-color: #20A9E5;
+}
+
+.tr-azzurro {
+    background-color: #B1E5F2;
+}
