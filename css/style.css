@@ -22,3 +22,18 @@
 #primo-titolo {
     font-size: 50px;
 }
+
+#scritto-da {
+    color: grey;
+    font-size:20px;
+    position: relative;
+    top: -40px;
+}
+
+.tim-img {
+    width: 49%;
+}
+
+.descrizione-foto {
+    font-size: 13px;
+}
