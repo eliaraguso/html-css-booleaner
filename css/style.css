@@ -62,9 +62,20 @@
 .div-footer1{
     color: white;
     background-image: url(../img/monitor.jpg);
-}
+    width: 280.8px;
+    height: 186.3px;
+    font-size: 25px;
+    font-weight: bold;
+}    
 
 .div-footer2{
+    position: relative;
     color: white;
     background-image: url(../img/graph.jpg);
+    width: 280.8px;
+    height: 186.3px;
+    font-size: 25px;
+    font-weight: bold;
+    top: 15px;
+    
 }
