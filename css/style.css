@@ -53,3 +53,18 @@
 .tr-azzurro {
     background-color: #B1E5F2;
 }
+
+#titolo-footer {
+    color: grey;
+    font-size: 18px;
+}
+
+.div-footer1{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+}
+
+.div-footer2{
+    color: white;
+    background-image: url(../img/graph.jpg);
+}
