@@ -1,0 +1,21 @@
+#titolo-principale {
+    position: relative;
+    color: white;
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    height: 180px;
+}
+
+#The {
+    position: absolute;
+    left: 43px;
+    bottom: 50px;
+    font-size: 25px;
+}
+
+#Booleaner {
+    position: absolute;
+    left: 10px;
+    bottom: 12px;
+    font-size: 55px;
+}
